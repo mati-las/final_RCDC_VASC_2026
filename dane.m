@@ -23,6 +23,5 @@ ttc_threshold = 1.5;    % [s] Krytyczny czas do kolizji
 delay = 8;
 dist_ref = 100;
 
-
 %% Otwarcie i uruchomienie modelu
 open_system("model");
