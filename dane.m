@@ -1,7 +1,7 @@
 %% =========================================================================
 % Zadanie eliminacyjne konkursu RCDC - Skrypt Inicjalizacyjny
 % Transfer function Team
-% mateusz Łaś
+% Mateusz Łaś
 % Paweł Kowalewski
 % Tomasz Mazur
 % =========================================================================
