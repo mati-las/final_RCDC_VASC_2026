@@ -1,7 +1,7 @@
 %% =========================================================================
-% Zadanie eliminacyjne konkursu RCDC - Skrypt Inicjalizacyjny
+% Zadanie konkursu RCDC - Skrypt Inicjalizacyjny
 % Transfer function Team
-% mateusz Łaś
+% Mateusz Łaś
 % Paweł Kowalewski
 % Tomasz Mazur
 % =========================================================================
@@ -22,7 +22,6 @@ tau_radar = 0.02;       % [s] Stała czasowa filtru radaru.
 ttc_threshold = 1.5;    % [s] Krytyczny czas do kolizji 
 delay = 8;
 dist_ref = 100;
-
 
 %% Otwarcie i uruchomienie modelu
 open_system("model");
